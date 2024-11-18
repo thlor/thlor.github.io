@@ -1,36 +1,27 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Lőrinc Thurnay",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "example@example.com",
+    "url": "https://example.com",
+    "summary": "Lorem ipsum dolor sit amet.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "thurnay",
+        "url": "https://www.linkedin.com/in/thurnay/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Center for E-Governance @ University for Continuing Education Krems",
+      "position": "Research Engineer",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2017-09",
+      "summary": "Applied research projects in e-Governance, legal technologies, cyber security. Software and data engineering, technical writing and academic publishing. Lecturing, presentations at international conferences. Project management.",
+      "highlights": ["Software architecture", "Data engineering", "open data", "legal data", "data visualization", "natural language processing"],
+      "location": "Krems-an-der-Donau, Austria"
     }
   ],
   "volunteer": [
