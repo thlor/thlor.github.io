@@ -20,7 +20,15 @@
       "url": "https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/e-governance-administration/centers/center-for-e-governance.html",
       "startDate": "2017-09",
       "summary": "Applied research projects in e-Governance, legal technologies, natural language processing, and  cyber security.",
-      "highlights": ["software engineering", "data engineering", "open data", "legal data", "data visualization", "natural language processing", "technical writing"],
+      "highlights": [
+        "software engineering",
+        "data engineering",
+        "open data",
+        "legal data",
+        "data visualization",
+        "natural language processing",
+        "technical writing"
+      ],
       "location": "Krems, Austria"
     },
     {
