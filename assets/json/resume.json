@@ -1,10 +1,6 @@
 {
   "basics": {
     "name": "Lőrinc Thurnay",
-    "image": "",
-    "email": "example@example.com",
-    "url": "https://example.com",
-    "summary": "Lorem ipsum dolor sit amet.",
     "profiles": [
       {
         "network": "LinkedIn",
