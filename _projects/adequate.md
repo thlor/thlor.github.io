@@ -14,7 +14,7 @@ then integrate pilot implementations to existing Open Data Portals in Austria.
 
 <hr />
 
-In this project, I did 
+In this project, I did
 
 - service integration across ADEQUATe platform,
 
