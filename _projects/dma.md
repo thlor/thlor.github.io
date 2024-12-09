@@ -25,6 +25,6 @@ In DMA, I
 - performed service integration using OpenAPIv3 and Kubernetes, 
 - published results in conference proceedings.
 
-<div style="display: none">{% cite rinnerbauer_limitations_2018 %}{% schlarb_using_2019 %}{% ivanschitz_semantic_2018 %}{% ivanschitz_data_2018 %}</div>
+<div style="display: none">{% cite rinnerbauer_limitations_2018 %}{% cite schlarb_using_2019 %}{% cite ivanschitz_semantic_2018 %}{% cite ivanschitz_data_2018 %}</div>
 
 <small>(FFG 849982)</small>
