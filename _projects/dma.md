@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Data Market Austria
-description: A data market using blockchain for resilience, enabling data-service brokerage, and developing efficient multi-source analysis.
+description: A data market using blockchain for resilience, enabling data-service brokerage, and developing efficient multi-source analysis (2017-2019)
 img: assets/img/dma_logo.svg
 importance: 10
 url: https://datamarket.at/en/
-category: UWK
+category: uwk
 related_publications: true
 ---
 
@@ -16,6 +16,7 @@ The Data Market Austria (DMA) project worked towards advancing technology founda
 3. developing processing and analyzing approaches that have acceptable processing speed while fusing multiple data sources.
 
 In DMA, I developed 
+
 - developed tools for the analysis and enhancement of metadata and data quality,
 - developed delivery tools for datasets, data streams, accommodating several access models (e.g. time based access, volume based access). 
 - developed data harvester from external portals, 
