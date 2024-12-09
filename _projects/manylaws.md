@@ -20,7 +20,7 @@ legal scientists <a href="https://www.linkedin.com/in/anna-sophie-novak-1a7a2082
 and <a href="https://www.linkedin.com/in/verenaschmid/" target="_blank">Verena Schmid</a>, I
 
 - designed and developed a software framework for interfacing with the complex and scarcely documented API of the <a href="" target="_blank">Austrian Legal Information System</a> (RIS),
-- designed an <a href="http://akomantoso.info/" target="_blank">Akoma Ntoso</a>-based metadata schema design for Austrian consolidated law documents,
-- developed a comprehensive data quality assurance reporting tool for RIS.  
+- designed an <a href="https://www.oasis-open.org/standard/akn-v1-0/" target="_blank">Akoma Ntoso</a>-based metadata schema design for Austrian consolidated law documents,
+- developed a comprehensive data quality assurance reporting tool for RIS.
 
 <div style="display: none">{% cite thurnay_solving_2021 %}{% cite stavropoulou_architecting_2020 %}</div>
