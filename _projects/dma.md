@@ -4,7 +4,7 @@ title: Data Market Austria
 description: A data market using blockchain for resilience, enabling data-service brokerage, and developing efficient multi-source analysis (2017-2019)
 img: assets/img/dma_logo.svg
 importance: 10
-url: https://datamarket.at/en/
+url_external: https://datamarket.at/en/
 category: uwk
 related_publications: true
 ---
