@@ -17,7 +17,7 @@ The Data Market Austria (DMA) project worked towards advancing technology founda
 
 <hr />
 
-In DMA, I 
+In this project, I 
 
 - developed tools for the analysis and enhancement of metadata and data quality,
 - developed delivery tools for datasets, data streams, accommodating several access models (e.g. time based access, volume based access). 
@@ -26,5 +26,3 @@ In DMA, I
 - published results in conference proceedings.
 
 <div style="display: none">{% cite rinnerbauer_limitations_2018 %}{% cite schlarb_using_2019 %}{% cite ivanschitz_semantic_2018 %}{% cite ivanschitz_data_2018 %}</div>
-
-<small>(FFG 849982)</small>
